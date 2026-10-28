@@ -4,6 +4,9 @@ Sitio institucional de la **Asociación Civil Familia Piamontesa de Villa María
 Reúne la historia de la colectividad, la comisión directiva, el libro de socios, la agenda de
 actividades, la Escuela de Arquería, el salón de eventos con sus menús y los canales de contacto.
 
+**Sitio publicado:** <https://mativ93.github.io/familia-piamontesa-villa-maria/>
+**Repositorio:** <https://github.com/mativ93/familia-piamontesa-villa-maria>
+
 Es un sitio **estático**: no necesita servidor, base de datos ni proceso de compilación. Se puede
 publicar gratis en GitHub Pages, Netlify, Cloudflare Pages o cualquier hosting que sirva archivos.
 
@@ -80,6 +83,11 @@ confirmada la información.
 ---
 
 ## 4. Publicar en GitHub Pages
+
+El sitio **ya está publicado** desde el repositorio `mativ93/familia-piamontesa-villa-maria`.
+Cada `push` a la rama `main` actualiza automáticamente la versión pública.
+
+Si alguna vez hay que volver a configurarlo desde cero:
 
 1. Crear un repositorio en GitHub, por ejemplo `familia-piamontesa-villa-maria`.
 2. Subir **el contenido de esta carpeta** (no la carpeta contenedora): `index.html`, `assets/`,

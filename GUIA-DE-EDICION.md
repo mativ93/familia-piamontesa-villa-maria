@@ -337,6 +337,11 @@ principales están al comienzo del archivo, en `:root`:
 
 ## 12. Publicar los cambios
 
+El sitio está en <https://mativ93.github.io/familia-piamontesa-villa-maria/> y se actualiza solo
+cuando se sube un cambio a la rama `main` del repositorio
+<https://github.com/mativ93/familia-piamontesa-villa-maria>. GitHub Pages tarda alrededor de un
+minuto en reflejar la nueva versión.
+
 ### Con GitHub desde el navegador
 
 1. Entrar al repositorio.
