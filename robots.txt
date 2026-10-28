@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Cuando el sitio tenga dominio propio, agregar aquí la línea del sitemap:
+# Sitemap: https://dominio.org/sitemap.xml
